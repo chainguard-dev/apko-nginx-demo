@@ -32,7 +32,6 @@ jobs:
         with:
           config: nginx.yaml
           tag: ghcr.io/${{ github.repository }}:latest
-          keyring-append: /github/workspace/melange.rsa.pub
           archs: x86_64
           source-date-epoch: ${{ steps.snapshot-date.outputs.epoch }}
 
