@@ -1,3 +1,3 @@
-# Apko Nginx Demo
+# Chainguard Nginx Demo
 
-Simple demo build of nginx with apko tooling (signed with cosign).
+Simple demo build of nginx with Chainguard tooling.
